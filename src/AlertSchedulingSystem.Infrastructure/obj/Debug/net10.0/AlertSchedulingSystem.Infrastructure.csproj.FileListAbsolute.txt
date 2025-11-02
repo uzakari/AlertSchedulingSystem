@@ -1,0 +1,15 @@
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Infrastructure/bin/Debug/net10.0/AlertSchedulingSystem.Infrastructure.deps.json
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Infrastructure/bin/Debug/net10.0/AlertSchedulingSystem.Infrastructure.dll
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Infrastructure/bin/Debug/net10.0/AlertSchedulingSystem.Infrastructure.pdb
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Infrastructure/bin/Debug/net10.0/AlertSchedulingSystem.Domain.dll
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Infrastructure/bin/Debug/net10.0/AlertSchedulingSystem.Domain.pdb
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Infrastructure/obj/Debug/net10.0/AlertSchedulingSystem.Infrastructure.csproj.AssemblyReference.cache
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Infrastructure/obj/Debug/net10.0/AlertSchedulingSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Infrastructure/obj/Debug/net10.0/AlertSchedulingSystem.Infrastructure.AssemblyInfoInputs.cache
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Infrastructure/obj/Debug/net10.0/AlertSchedulingSystem.Infrastructure.AssemblyInfo.cs
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Infrastructure/obj/Debug/net10.0/AlertSchedulingSystem.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Infrastructure/obj/Debug/net10.0/AlertSch.425DAEE6.Up2Date
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Infrastructure/obj/Debug/net10.0/AlertSchedulingSystem.Infrastructure.dll
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Infrastructure/obj/Debug/net10.0/refint/AlertSchedulingSystem.Infrastructure.dll
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Infrastructure/obj/Debug/net10.0/AlertSchedulingSystem.Infrastructure.pdb
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Infrastructure/obj/Debug/net10.0/ref/AlertSchedulingSystem.Infrastructure.dll

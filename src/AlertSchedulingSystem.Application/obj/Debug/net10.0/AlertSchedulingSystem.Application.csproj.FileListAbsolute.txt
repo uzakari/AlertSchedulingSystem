@@ -1,0 +1,15 @@
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Application/bin/Debug/net10.0/AlertSchedulingSystem.Application.deps.json
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Application/bin/Debug/net10.0/AlertSchedulingSystem.Application.dll
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Application/bin/Debug/net10.0/AlertSchedulingSystem.Application.pdb
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Application/bin/Debug/net10.0/AlertSchedulingSystem.Domain.dll
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Application/bin/Debug/net10.0/AlertSchedulingSystem.Domain.pdb
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Application/obj/Debug/net10.0/AlertSchedulingSystem.Application.csproj.AssemblyReference.cache
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Application/obj/Debug/net10.0/AlertSchedulingSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Application/obj/Debug/net10.0/AlertSchedulingSystem.Application.AssemblyInfoInputs.cache
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Application/obj/Debug/net10.0/AlertSchedulingSystem.Application.AssemblyInfo.cs
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Application/obj/Debug/net10.0/AlertSchedulingSystem.Application.csproj.CoreCompileInputs.cache
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Application/obj/Debug/net10.0/AlertSch.5282C27A.Up2Date
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Application/obj/Debug/net10.0/AlertSchedulingSystem.Application.dll
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Application/obj/Debug/net10.0/refint/AlertSchedulingSystem.Application.dll
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Application/obj/Debug/net10.0/AlertSchedulingSystem.Application.pdb
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Application/obj/Debug/net10.0/ref/AlertSchedulingSystem.Application.dll

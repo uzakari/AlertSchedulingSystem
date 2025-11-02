@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-AlertSchedulingSystem.WorkerService-6c4172ba-291a-4256-919e-21a75c40340e</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="13.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.0-preview.4.25258.110" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AlertSchedulingSystem.Domain\AlertSchedulingSystem.Domain.csproj" />
+    <ProjectReference Include="..\AlertSchedulingSystem.Application\AlertSchedulingSystem.Application.csproj" />
+    <ProjectReference Include="..\AlertSchedulingSystem.Infrastructure\AlertSchedulingSystem.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>

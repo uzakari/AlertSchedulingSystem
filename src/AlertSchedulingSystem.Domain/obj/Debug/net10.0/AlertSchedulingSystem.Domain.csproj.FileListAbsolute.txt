@@ -1,0 +1,11 @@
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Domain/bin/Debug/net10.0/AlertSchedulingSystem.Domain.deps.json
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Domain/bin/Debug/net10.0/AlertSchedulingSystem.Domain.dll
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Domain/bin/Debug/net10.0/AlertSchedulingSystem.Domain.pdb
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Domain/obj/Debug/net10.0/AlertSchedulingSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Domain/obj/Debug/net10.0/AlertSchedulingSystem.Domain.AssemblyInfoInputs.cache
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Domain/obj/Debug/net10.0/AlertSchedulingSystem.Domain.AssemblyInfo.cs
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Domain/obj/Debug/net10.0/AlertSchedulingSystem.Domain.csproj.CoreCompileInputs.cache
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Domain/obj/Debug/net10.0/AlertSchedulingSystem.Domain.dll
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Domain/obj/Debug/net10.0/refint/AlertSchedulingSystem.Domain.dll
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Domain/obj/Debug/net10.0/AlertSchedulingSystem.Domain.pdb
+/Users/umar/Documents/AlertSchedulingSystem/src/AlertSchedulingSystem.Domain/obj/Debug/net10.0/ref/AlertSchedulingSystem.Domain.dll
